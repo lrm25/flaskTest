@@ -1,0 +1,6 @@
+__pycache__
+*.pyc
+*.yaml
+*.yml
+
+!.github/workflows/python.yml
